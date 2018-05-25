@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: Instance Difficulty Warning
+## Author: Seydie
+## Version: 0.1
+## LoadManagers: AddonLoader
+## Notes: Show difficulty settings, easily switching between them
+
+main.lua
